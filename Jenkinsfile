@@ -1,3 +1,4 @@
+﻿test
 timestamps {
   node ('ads-agent') {
     try {
